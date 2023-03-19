@@ -1,0 +1,27 @@
+.externally {
+    color: red;
+    
+}
+.styled {
+    color:rgb(121, 210, 252);
+
+}
+#box1 {
+    background-color: rgb(76, 161, 241);
+    border: 10px solid rgb(241, 154, 83);
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 50px;
+    padding-top: 100px;
+    width: 200px;
+}
+#box2 {
+    background-color: blue;
+    border-top: 5px dashed black;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 100px;
+    
+}

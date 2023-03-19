@@ -1,0 +1,26 @@
+.externally {
+    color: red;
+    
+}
+.styled {
+    color:blue;
+
+}
+#box1 {
+    background-color: yellow;
+    border: 1opx solid red;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 50px;
+    padding-top: 100px;
+    width: 200px;
+}
+#box2 {
+    background-color: blue;
+    border-top: 5px dashed black
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 100px;
+    
+}
